@@ -1,5 +1,7 @@
 # VAE-NCA
 
+This repo provides the code to replicate the experiments in the paper:
+
 > <cite> Image Generation With Neural Cellular Automatas [arxiv link](https://arxiv.org/abs/2010.04949)</cite>
 
 Welcome to cite our work (bib):
@@ -13,6 +15,6 @@ Welcome to cite our work (bib):
 }
 ```
 
-The models can be downloaded from:
+The trained models can be downloaded from:
 
 https://drive.google.com/drive/folders/1sGXbnsZCF4w3FhvTi0J6bXBKlP-XebmY?usp=sharing
