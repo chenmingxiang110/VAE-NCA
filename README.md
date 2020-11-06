@@ -1,5 +1,7 @@
 # VAE-NCA
 
+<img src="data/cifar_steps.png" width="600" height="400">
+
 This repo provides the code to replicate the experiments in the paper:
 
 > <cite> Image Generation With Neural Cellular Automatas [arxiv link](https://arxiv.org/abs/2010.04949)</cite>
